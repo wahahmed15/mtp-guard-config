@@ -1,7 +1,7 @@
 {
   "AllowedDeviceIds" : [
     "HID\\VID_1C4F&PID_0034&REV_0110\r\n",
-    "USB\\VID_04A9&PID_32D9&REV_0002",
-	"USB\\VID_04E8&PID_6860&MI_00"
+    "USB\\VID_04A9&PID_32D9&REV_0002"
   ]
+
 }
